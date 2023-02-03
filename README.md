@@ -1,2 +1,2 @@
 # Simple-Programs
-Simple Programs Use Python, Java, C && JavaScript
+Simple Programs Use Python, Java, JavaScript && Other
